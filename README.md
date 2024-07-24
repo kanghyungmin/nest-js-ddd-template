@@ -8,3 +8,9 @@
 - [고품질 소프트웨어를 위한 DDD 도입기](https://blog.tesser.co.kr/applying-domain-driven-development/)
 - [Domain-Driven-Design in Timeseries](https://khalilstemmler.com/articles/categories/domain-driven-design/)
 
+
+What to do 
+[ ] Check this [blogger](https://khalilstemmler.com/articles/categories/domain-driven-design/)
+[ ] Read the book which title is 도메인주도설계 철저 입문
+[ ] Sample DDD code 분석 [link](https://github.com/kanghyungmin/nestjs-clean-architecture)
+[ ] Coding my own nestjs of DDD Pattern 
